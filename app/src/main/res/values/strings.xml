@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SMS-Gateway</string>
+    <string name="zero">0</string>
+    <string name="number_of_sent_sms_messages">Number of Sent SMS Messages</string>
+    <string name="stop">STOP</string>
+    <string name="start">START</string>
 </resources>
